@@ -1,5 +1,5 @@
 # bandit-testbed
-GNU R testbed for both stationary and nonstationary k-armed bandit problems
+GNU R testbed for stationary and nonstationary k-armed bandit problems
 
 # Copyright disclaimer and License
 
